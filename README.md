@@ -1,4 +1,4 @@
-# Lendo-logs-grandes-com-BufferedReader
+# Lendo logs grandes com BufferedReader
 
 ## Descrição
 `PDVLogReader` é uma aplicação simples desenvolvida em **Java** para leitura de logs de um Ponto de Venda (PDV). O sistema utiliza **BufferedReader** para ler eficientemente arquivos de log linha por linha, exibindo as informações no console.
